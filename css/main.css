@@ -1,0 +1,40 @@
+#nav{
+    background-color:white;
+    padding:5px;
+    font-size:20px;
+    width:100%;
+    margin:0px;
+}
+#header{
+    background-color:gray;
+    padding:15px;
+    
+}
+h1{
+    padding:10px;
+    margin:10px;
+    font-size:80px;
+    font:arial;
+}
+h2{
+    font-size:35px;
+    padding:0px;
+}
+h3{
+   font-size:25px;
+}
+h4{
+    font-size:20px;
+}
+p{
+    font-size:20px;
+}
+img {
+    width:20%;
+    height:25%;
+}
+body{
+    margin:40px;
+    padding:30px;
+    background-color:#993366;
+}
